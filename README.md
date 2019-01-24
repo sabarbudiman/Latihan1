@@ -24,16 +24,16 @@ PERINTAH DASAR GIT
 
 Langkah-Langkah Menggunakan Git
 
-1. Klik kanan pada monotir Klik " Git Bash Here"
+1. Klik kanan pada monitor Klik " Git Bash Here"
 ![klik kanan](https://user-images.githubusercontent.com/46584235/51678735-af59b180-200f-11e9-86f2-377378e3ddbd.jpeg)
 
 2. Maka akan ada tampilan command prompt seperti dibawah ini                                     
 ![commond front](https://user-images.githubusercontent.com/46584235/51678746-b7195600-200f-11e9-908c-050b95711a54.jpeg)
 
-3. Buka Drive yang ingin dipakai semisal Drive D dengan perintah cd /d                       
+3. Buka Drive yang ingin dipakai, semisal Drive D  jalankan dengan perintah cd /d                       
 ![drive d](https://user-images.githubusercontent.com/46584235/51678761-c1d3eb00-200f-11e9-8a81-0dd9ed5e7429.jpeg)
 
-4. Buat directory dengan printah "mkdir" sebagai contoh directory Pemograman1 
+4. Buat directory dengan printah "mkdir" sebagai contoh : directory Pemograman1 
 ![pemog1](https://user-images.githubusercontent.com/46584235/51678781-d31cf780-200f-11e9-824b-7e3b9a389506.jpeg)
 
 5. Buka directory Pemograman1 dengan perintah cd Pemograman1                            
