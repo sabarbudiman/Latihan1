@@ -25,22 +25,57 @@ PERINTAH DASAR GIT
 Langkah-Langkah Menggunakan Git
 
 1. Klik kanan pada monotir Klik " Git Bash Here"
+
+
 2. Maka akan ada tampilan commond pront seperti dibawah ini
+
+
 3. Buka Drive yang ingin dipakai semisal Drive D dengan perintah cd /d 
+
+
 4. Buat directory dengan printah "mkdir" sebagai contoh directory Pemograman1 
+
+
 5. Buka directory Pemograman1 dengan perintah cd Pemograman1
+
+
 6. Buat directory latihan1 dan buka directory latihan1
+
+
 7. Menambahkan file baru pada repository dengan perintah echo "#latihan1" >> README.md
+
+
 8. Jalankan perintah git init untuk menjalankan repository local
+
+
 9. Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add README.md
+
+
 10. Untuk menyimpan perubahaan yang ada kedalam database repository local, gunakan perintah git commit -m "File pertama saya"
-11. Buat repository server, isi nama repositorynya semisal : latihan1 
-    lalu klik tombol Creat repository
-12. Menambahkan remote repository. remote repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan  sehingga dapat diakses oleh banyak user
+
+
+11. Buat repository server, isi nama repositorynya semisal : latihan1 ,kemudian klik tombol Creat repository
+
+
+12. Menambahkan remote repository. remote repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan  sehingga dapat diakses oleh banyak user.
+
+
 13. Mengirim perubahan ke server dengan perintah git push -u origin master 
+
+
 14. Melihat hasil pada repository, buka laman github.com arahkan pada repositorynya. Maka perubahan akan terlihat pada laman tersebut 
+
+
 15. Buka drive D kemudian klik Pemograman1, klik latihan1
+
+
 16. Klik kanan pada file Readme.md kemudian pilih aplikasi untuk mengubah file, semisal dibawah ini dengan aplikasi notepad
+
+
 17. Untuk mengirim perubahan jalan perinta git push -u origin master, kemudian git add README.md dan git commit -m "latihan1"
+
+
 18. Kemuidan lihat perubahannya pada laman github.com 
+
+
 18. Sekian dan terima kasih 
