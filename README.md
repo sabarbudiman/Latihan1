@@ -25,3 +25,5 @@ PERINTAH DASAR GIT
 Langkah-Langkah Menggunakan Git
 
 1. Klik kanan pada layar monitor, klik “Git Bash Here”, maka akan muncul command prompt.
+
+![00](https://user-images.githubusercontent.com/46584235/51668796-8b897200-1ff5-11e9-933f-f29802692ad6.jpeg)
