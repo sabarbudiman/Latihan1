@@ -24,5 +24,5 @@ PERINTAH DASAR GIT
 
 Langkah-Langkah Menggunakan Git
 
-
+1. Klik kanan pada monotir 
 
