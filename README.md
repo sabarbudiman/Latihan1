@@ -25,57 +25,69 @@ PERINTAH DASAR GIT
 Langkah-Langkah Menggunakan Git
 
 1. Klik kanan pada monotir Klik " Git Bash Here"
+![klik kanan](https://user-images.githubusercontent.com/46584235/51678735-af59b180-200f-11e9-86f2-377378e3ddbd.jpeg)
 
+2. Maka akan ada tampilan commond pront seperti dibawah ini                                     
+![commond front](https://user-images.githubusercontent.com/46584235/51678746-b7195600-200f-11e9-908c-050b95711a54.jpeg)
 
-2. Maka akan ada tampilan commond pront seperti dibawah ini
-
-
-3. Buka Drive yang ingin dipakai semisal Drive D dengan perintah cd /d 
-
+3. Buka Drive yang ingin dipakai semisal Drive D dengan perintah cd /d                       
+![drive d](https://user-images.githubusercontent.com/46584235/51678761-c1d3eb00-200f-11e9-8a81-0dd9ed5e7429.jpeg)
 
 4. Buat directory dengan printah "mkdir" sebagai contoh directory Pemograman1 
+![pemog1](https://user-images.githubusercontent.com/46584235/51678781-d31cf780-200f-11e9-824b-7e3b9a389506.jpeg)
 
+5. Buka directory Pemograman1 dengan perintah cd Pemograman1                            
+![buka pemog](https://user-images.githubusercontent.com/46584235/51678794-db753280-200f-11e9-9f2d-ede68e191ddd.jpeg)
 
-5. Buka directory Pemograman1 dengan perintah cd Pemograman1
-
-
-6. Buat directory latihan1 dan buka directory latihan1
-
+6. Buat directory latihan1 dan buka directory latihan1.                         
+![mkdir latihan](https://user-images.githubusercontent.com/46584235/51678808-e203aa00-200f-11e9-8f02-088734603990.jpeg)
 
 7. Menambahkan file baru pada repository dengan perintah echo "#latihan1" >> README.md
-
+![printah echo](https://user-images.githubusercontent.com/46584235/51678856-f47de380-200f-11e9-9479-df02b09770bc.jpeg)
 
 8. Jalankan perintah git init untuk menjalankan repository local
-
+![printah git init](https://user-images.githubusercontent.com/46584235/51678876-ff387880-200f-11e9-9655-fd106724468f.jpeg)
 
 9. Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add README.md
-
+![git add readme](https://user-images.githubusercontent.com/46584235/51678898-0cedfe00-2010-11e9-8e36-fe43769a7a7e.jpeg)
 
 10. Untuk menyimpan perubahaan yang ada kedalam database repository local, gunakan perintah git commit -m "File pertama saya"
 
 
 11. Buat repository server, isi nama repositorynya semisal : latihan1 ,kemudian klik tombol Creat repository
-
+![repo server](https://user-images.githubusercontent.com/46584235/51678919-1a0aed00-2010-11e9-803f-b7c639ad2925.jpeg)
 
 12. Menambahkan remote repository. remote repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan  sehingga dapat diakses oleh banyak user.
-
+![remote repo](https://user-images.githubusercontent.com/46584235/51678946-298a3600-2010-11e9-8f32-de6c7dd3c61c.jpeg)
 
 13. Mengirim perubahan ke server dengan perintah git push -u origin master 
+![git push](https://user-images.githubusercontent.com/46584235/51678958-3149da80-2010-11e9-8bbc-5737a16d1f7e.jpeg)
 
-
-14. Melihat hasil pada repository, buka laman github.com arahkan pada repositorynya. Maka perubahan akan terlihat pada laman tersebut 
-
+14. Melihat hasil pada repository, buka laman github.com arahkan pada repositorynya. Maka perubahan akan terlihat pada laman tersebut   
+![hasil 01](https://user-images.githubusercontent.com/46584235/51678981-3f97f680-2010-11e9-99c1-b5199fe5d0a8.jpeg)
 
 15. Buka drive D kemudian klik Pemograman1, klik latihan1
 
 
 16. Klik kanan pada file Readme.md kemudian pilih aplikasi untuk mengubah file, semisal dibawah ini dengan aplikasi notepad
+![notepad](https://user-images.githubusercontent.com/46584235/51679023-60604c00-2010-11e9-8b79-617805ea0c72.jpg)
 
-
-17. Untuk mengirim perubahan jalan perinta git push -u origin master, kemudian git add README.md dan git commit -m "latihan1"
-
-
+17. Untuk mengirim perubahan jalan perinta git push -u origin master, kemudian git add README.md dan git commit -m "latihan1"   
+![push origin 2](https://user-images.githubusercontent.com/46584235/51679040-6eae6800-2010-11e9-834c-6773b7f17200.jpg)
+![git add readme 2](https://user-images.githubusercontent.com/46584235/51679053-753cdf80-2010-11e9-9f76-36e4ac970623.jpg)
+![git commit 2](https://user-images.githubusercontent.com/46584235/51679070-7e2db100-2010-11e9-8bd4-fd927dc185c3.jpg)
 18. Kemuidan lihat perubahannya pada laman github.com 
-
+![hasil final](https://user-images.githubusercontent.com/46584235/51679084-85ed5580-2010-11e9-9caf-4fe414e97cf8.jpg)
 
 18. Sekian dan terima kasih 
+
+
+
+
+
+
+
+
+
+
+
