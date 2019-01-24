@@ -27,7 +27,7 @@ Langkah-Langkah Menggunakan Git
 1. Klik kanan pada monotir Klik " Git Bash Here"
 ![klik kanan](https://user-images.githubusercontent.com/46584235/51678735-af59b180-200f-11e9-86f2-377378e3ddbd.jpeg)
 
-2. Maka akan ada tampilan commond pront seperti dibawah ini                                     
+2. Maka akan ada tampilan command prompt seperti dibawah ini                                     
 ![commond front](https://user-images.githubusercontent.com/46584235/51678746-b7195600-200f-11e9-908c-050b95711a54.jpeg)
 
 3. Buka Drive yang ingin dipakai semisal Drive D dengan perintah cd /d                       
@@ -51,8 +51,8 @@ Langkah-Langkah Menggunakan Git
 9. Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add README.md
 ![git add readme](https://user-images.githubusercontent.com/46584235/51678898-0cedfe00-2010-11e9-8e36-fe43769a7a7e.jpeg)
 
-10. Untuk menyimpan perubahaan yang ada kedalam database repository local, gunakan perintah git commit -m "File pertama saya"
-
+10. Untuk menyimpan perubahaan yang ada kedalam database repository local, gunakan perintah git commit -m "File pertama saya"     
+![17](https://user-images.githubusercontent.com/46584235/51680875-8f2cf100-2015-11e9-8b74-aac226788a78.jpeg)
 
 11. Buat repository server, isi nama repositorynya semisal : latihan1 ,kemudian klik tombol Creat repository
 ![repo server](https://user-images.githubusercontent.com/46584235/51678919-1a0aed00-2010-11e9-803f-b7c639ad2925.jpeg)
@@ -67,7 +67,7 @@ Langkah-Langkah Menggunakan Git
 ![hasil 01](https://user-images.githubusercontent.com/46584235/51678981-3f97f680-2010-11e9-99c1-b5199fe5d0a8.jpeg)
 
 15. Buka drive D kemudian klik Pemograman1, klik latihan1
-
+![klik latihan1](https://user-images.githubusercontent.com/46584235/51680812-5a209e80-2015-11e9-915e-26f8aaa380d8.jpeg)
 
 16. Klik kanan pada file Readme.md kemudian pilih aplikasi untuk mengubah file, semisal dibawah ini dengan aplikasi notepad
 ![notepad](https://user-images.githubusercontent.com/46584235/51679023-60604c00-2010-11e9-8b79-617805ea0c72.jpg)
@@ -79,15 +79,4 @@ Langkah-Langkah Menggunakan Git
 18. Kemuidan lihat perubahannya pada laman github.com 
 ![hasil final](https://user-images.githubusercontent.com/46584235/51679084-85ed5580-2010-11e9-9caf-4fe414e97cf8.jpg)
 
-18. Sekian dan terima kasih 
-
-
-
-
-
-
-
-
-
-
-
+ Sekian dan terima kasih 
