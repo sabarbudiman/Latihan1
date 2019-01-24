@@ -25,4 +25,4 @@ PERINTAH DASAR GIT
 Langkah-Langkah Menggunakan Git
 
 1. Klik kanan pada monotir 
-
+   ![00](https://user-images.githubusercontent.com/46584235/51670711-cdb4b280-1ff9-11e9-9f48-98ce07a27e02.jpeg)
