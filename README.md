@@ -24,13 +24,5 @@ PERINTAH DASAR GIT
 
 Langkah-Langkah Menggunakan Git
 
-1. Klik kanan pada layar monitor
-
-  ![00](https://user-images.githubusercontent.com/46584235/51668796-8b897200-1ff5-11e9-933f-f29802692ad6.jpeg)
-
-2. Klik “Git Bash Here”, maka akan muncul command prompt.
-   ![01](https://user-images.githubusercontent.com/46584235/51670028-4c105500-1ff8-11e9-9c79-e7841f5bc9e1.jpeg)
-   
-3. Kemudian Buka drive yang di inginkan, misalnya Drive D dengan perintah cd /d
 
 
