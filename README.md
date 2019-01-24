@@ -25,4 +25,18 @@ PERINTAH DASAR GIT
 Langkah-Langkah Menggunakan Git
 
 1. Klik kanan pada monotir 
-   ![00](https://user-images.githubusercontent.com/46584235/51670711-cdb4b280-1ff9-11e9-9f48-98ce07a27e02.jpeg)
+2. Klik " Git Bash Here"
+3. Maka akan ada tampilan commond pront seperti dibawah ini
+4. Buka Drive yang ingin dipakai semisal Drive D dengan perintah cd /d 
+5. Buat directory dengan printah "mkdir" sebagai contoh directory Pemograman1 
+6. Buka directory Pemograman1 dengan perintah cd Pemograman1
+7. Buat directory latihan1 dan buka directory latihan1
+8. Menambahkan file baru pada repository dengan perintah echo "#latihan1" >> README.md
+9. Jalankan perintah git init untuk menjalankan repository local
+10. Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add README.md
+11. Untuk menyimpan perubahaan yang ada kedalam database repository local, gunakan perintah git commit -m "File pertama saya"
+12. Buat repository server, isi nama repositorynya semisal : latihan1 
+    lalu klik tombol Creat repository
+13. Menambahkan remote repository. remote repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan  sehingga dapat diakses oleh banyak user
+14. Mengirim perubahan ke server dengan perintah git push -u origin master 
+15. Melihat hasil pada repository, buka laman github.com arahkan pada repositorynya. Maka perubahan akan terlihat pada laman tersebut 
