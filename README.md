@@ -54,9 +54,9 @@ Langkah-Langkah Menggunakan Git
 • Buatlah directory projrct paktikum pertama denagan nama latihan1 dan kemudian masuk ke dierectory tersebut, directory aktif akan menjadi : d\pemograman1\latihan1                      
 ![mkdir latihan](https://user-images.githubusercontent.com/46584235/51678808-e203aa00-200f-11e9-8f02-088734603990.jpeg)
 
-• Jalankan perintah git init untuk menjalankan repository local.                             
-• Repository baru berhasil di analisasi, dengan terbentuknya satu directory hidden dengan nama .git                
-• Pada direktori tersebut, semua perubahan pada working directory akan disimpan                
+• Jalankan perintah git init untuk menjalankan repository local.                                                                         
+• Repository baru berhasil di analisasi, dengan terbentuknya satu directory hidden dengan nama .git                                     
+• Pada direktori tersebut, semua perubahan pada working directory akan disimpan                                         
 ![printah git init](https://user-images.githubusercontent.com/46584235/51678876-ff387880-200f-11e9-9655-fd106724468f.jpeg)
 
 • Menambahkan file baru pada repository dengan perintah echo "#latihan1" >> README.md
@@ -73,40 +73,40 @@ Langkah-Langkah Menggunakan Git
 ![17](https://user-images.githubusercontent.com/46584235/51680875-8f2cf100-2015-11e9-8b74-aac226788a78.jpeg)
 
 • Anda harus membuat akun terlebih dahulu.                 
-• Pada laman github, klik tombol start a project, atau
-• Dari menu (icon +) klik New Repository
-• Buat repository server isi nama repositorynya semisal : latihan1 ,kemudian klik tombol Creat repository
+• Pada laman github, klik tombol start a project, atau                                                
+• Dari menu (icon +) klik New Repository                                           
+• Buat repository server isi nama repositorynya semisal : latihan1, kemudian klik tombol Creat repository                         
 ![repo server](https://user-images.githubusercontent.com/46584235/51678919-1a0aed00-2010-11e9-803f-b7c639ad2925.jpeg)
 
-• Menambahkan remote repository.                                                        
-• Remote repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan sehingga dapat diakses oleh banyak user
+• Menambahkan remote repository.                                                                                           
+• Remote repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan sehingga dapat diakses oleh banyak user                                                           
 • Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
 ![remote repo](https://user-images.githubusercontent.com/46584235/51678946-298a3600-2010-11e9-8f32-de6c7dd3c61c.jpeg)
 
-• Mengirim perubahan ke server dengan perintah git push -u origin master         
-• Perintah ini akan meminta memasukkan username dan password pada akun github.com
+• Mengirim perubahan ke server dengan perintah git push -u origin master                                      
+• Perintah ini akan meminta memasukkan username dan password pada akun github.com                          
 ![git push](https://user-images.githubusercontent.com/46584235/51678958-3149da80-2010-11e9-8bbc-5737a16d1f7e.jpeg)
 
-• Melihat hasil pada repository, buka laman github.com arahkan pada repositorynya.                               
+• Melihat hasil pada repository, buka laman github.com arahkan pada repositorynya.                                                      
 • Maka perubahan akan terlihat pada laman tersebut                                  
 ![hasil 01](https://user-images.githubusercontent.com/46584235/51678981-3f97f680-2010-11e9-99c1-b5199fe5d0a8.jpeg)
 
 • Buka drive D kemudian klik Pemograman1                                
-• kemudian klik direktori latihan1                                                   
+• kemudian klik direktori latihan1                                                                          
 ![klik latihan1](https://user-images.githubusercontent.com/46584235/51680812-5a209e80-2015-11e9-915e-26f8aaa380d8.jpeg)
 
-• Klik kanan pada file Readme.md kemudian pilih aplikasi untuk mengubah file
-• Semisal dibawah ini dengan aplikasi notepad menambahkan / mengedit data dalam file README.md                     
+• Klik kanan pada file Readme.md kemudian pilih aplikasi untuk mengubah file                                      
+• Semisal dibawah ini dengan aplikasi notepad menambahkan / mengedit data dalam file README.md                                                  
 ![notepad](https://user-images.githubusercontent.com/46584235/51679023-60604c00-2010-11e9-8b79-617805ea0c72.jpg)
 
-• Untuk mengirim perubahan jalankan perintah git push -u origin master
-• Kemudian jalankan perintah git add README.md
-• Kemudian jalankan perintah git commit -m "latihan1"   
+• Untuk mengirim perubahan jalankan perintah git push -u origin master                                                    
+• Kemudian jalankan perintah git add README.md                                                                
+• Kemudian jalankan perintah git commit -m "latihan1"                                                                  
 ![push origin 2](https://user-images.githubusercontent.com/46584235/51679040-6eae6800-2010-11e9-834c-6773b7f17200.jpg)
 ![git add readme 2](https://user-images.githubusercontent.com/46584235/51679053-753cdf80-2010-11e9-9f76-36e4ac970623.jpg)
 ![git commit 2](https://user-images.githubusercontent.com/46584235/51679070-7e2db100-2010-11e9-8bd4-fd927dc185c3.jpg)
 
-• Kemuidan lihat perubahannya pada laman github.com 
+• Kemuidan lihat perubahannya pada laman github.com                                              
 ![hasil final](https://user-images.githubusercontent.com/46584235/51679084-85ed5580-2010-11e9-9caf-4fe414e97cf8.jpg)
 
  Sekian dan terima kasih 
