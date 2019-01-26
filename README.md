@@ -13,10 +13,10 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 1. Buka website ini dan download installer GIT untuk Windows.
 2. Setelah download, buka file tersebut untuk menjalankan proses instalasi. Ikuti semua instruksi, klik Next dan Finish hingga semua  proses instalasi selesai.
 
-Menambahkan global config
-• Pada saat pertama kali menggunakan git, perlu dilakukan configurasi user.name dan user.email
-• Configurasi ini bisa dilakukan untuk global repository atau individual repository.
-• apabila belum dilakukan configurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit
+Menambahkan global config                                                                               
+• Pada saat pertama kali menggunakan git, perlu dilakukan configurasi user.name dan user.email                   
+• Configurasi ini bisa dilakukan untuk global repository atau individual repository.                                 
+• apabila belum dilakukan configurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit                
 
 • Config Global Repository                                                                                     
 
@@ -51,7 +51,7 @@ Langkah-Langkah Menggunakan Git
 • Buka directory Pemograman1 dengan perintah cd Pemograman1                            
 ![buka pemog](https://user-images.githubusercontent.com/46584235/51678794-db753280-200f-11e9-9f2d-ede68e191ddd.jpeg)
 
-• Buatlah directory projrct paktikum pertama denagan nama latihan1 dan kemudian masuk ke dierectory tersebut, directory aktif akan menjadi : d\pemograman1\latihan1                      
+• Buatlah directory projrct paktikum pertama denagan nama latihan1 dan kemudian masuk ke dierectory tersebut, directory aktif akan         menjadi : d\pemograman1\latihan1                      
 ![mkdir latihan](https://user-images.githubusercontent.com/46584235/51678808-e203aa00-200f-11e9-8f02-088734603990.jpeg)
 
 • Jalankan perintah git init untuk menjalankan repository local.                                                                         
@@ -59,10 +59,9 @@ Langkah-Langkah Menggunakan Git
 • Pada direktori tersebut, semua perubahan pada working directory akan disimpan                                         
 ![printah git init](https://user-images.githubusercontent.com/46584235/51678876-ff387880-200f-11e9-9655-fd106724468f.jpeg)
 
-• Menambahkan file baru pada repository dengan perintah echo "#latihan1" >> README.md
-• Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
-• disini kita akan coba buat satu file bernama README.md (text file)
-
+• Menambahkan file baru pada repository dengan perintah echo "#latihan1" >> README.md                                             
+• Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)                       
+• Disini kita akan coba buat satu file bernama README.md (text file)                                       
 ![printah echo](https://user-images.githubusercontent.com/46584235/51678856-f47de380-200f-11e9-9479-df02b09770bc.jpeg)
 
 • Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add README.md                           
@@ -79,7 +78,7 @@ Langkah-Langkah Menggunakan Git
 ![repo server](https://user-images.githubusercontent.com/46584235/51678919-1a0aed00-2010-11e9-803f-b7c639ad2925.jpeg)
 
 • Menambahkan remote repository.                                                                                           
-• Remote repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan sehingga dapat diakses oleh banyak user                                                           
+• Remote repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan sehingga dapat diakses oleh banyak   user                                                           
 • Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
 ![remote repo](https://user-images.githubusercontent.com/46584235/51678946-298a3600-2010-11e9-8f32-de6c7dd3c61c.jpeg)
 
