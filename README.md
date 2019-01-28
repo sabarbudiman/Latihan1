@@ -1,10 +1,10 @@
 # latihan1
 
-TUTORIAL CARA MENGGUNAKAN GIT
+## TUTORIAL CARA MENGGUNAKAN GIT
 
 Git adalah pengontrol versi yang bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri. Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
 
-Langkah-langkah Install GIT di berbagai jenis sistem
+### Langkah-langkah Install GIT di berbagai jenis sistem
 
 Install GIT di Windows
 
@@ -13,7 +13,7 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 1. Buka website ini dan download installer GIT untuk Windows.
 2. Setelah download, buka file tersebut untuk menjalankan proses instalasi. Ikuti semua instruksi, klik Next dan Finish hingga semua  proses instalasi selesai.
 
-Menambahkan global config                                                                               
+### Menambahkan global config                                                                               
 • Pada saat pertama kali menggunakan git, perlu dilakukan configurasi user.name dan user.email                   
 • Configurasi ini bisa dilakukan untuk global repository atau individual repository.                                 
 • apabila belum dilakukan configurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit                
@@ -24,7 +24,7 @@ $ git config --global uesr.name "nama_user"
 $ git config --global user.email nama_user"
 
 
-PERINTAH DASAR GIT
+### PERINTAH DASAR GIT
 
 1. git init, perintah untuk membuat repository local
 2. git add, perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit.
@@ -34,7 +34,7 @@ PERINTAH DASAR GIT
 6. git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory).
 
 
-Langkah-Langkah Menggunakan Git
+### Langkah-Langkah Menggunakan Git
 
 • Klik kanan pada monitor akan munjucul tampilan seperti gambar di bawah lalu Klik " Git Bash Here"
 ![klik kanan](https://user-images.githubusercontent.com/46584235/51678735-af59b180-200f-11e9-86f2-377378e3ddbd.jpeg)
